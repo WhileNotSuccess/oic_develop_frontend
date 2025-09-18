@@ -1,0 +1,3 @@
+[submodule "project_OIC-Frontend_NextJS-deployment-repo"]
+	path = project_OIC-Frontend_NextJS-deployment-repo
+	url = https://github.com/WhileNotSuccess/project_OIC-Frontend_NextJS-deployment-repo.git
